@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://E:/SSM/lib/ant-1.9.6.jar!/" />
+      <root url="jar://E:/SSM/lib/ant-launcher-1.9.6.jar!/" />
+      <root url="jar://E:/SSM/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/SSM/lib/asm-5.2.jar!/" />
+      <root url="jar://E:/SSM/lib/aspectjweaver-1.8.10.jar!/" />
+      <root url="jar://E:/SSM/lib/cglib-3.2.5.jar!/" />
+      <root url="jar://E:/SSM/lib/commons-dbcp2-2.6.0.jar!/" />
+      <root url="jar://E:/SSM/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/SSM/lib/commons-pool2-2.6.2.jar!/" />
+      <root url="jar://E:/SSM/lib/javassist-3.22.0-GA.jar!/" />
+      <root url="jar://E:/SSM/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://E:/SSM/lib/log4j-api-2.3.jar!/" />
+      <root url="jar://E:/SSM/lib/log4j-core-2.3.jar!/" />
+      <root url="jar://E:/SSM/lib/mybatis-3.4.6.jar!/" />
+      <root url="jar://E:/SSM/lib/mybatis-spring-1.3.1.jar!/" />
+      <root url="jar://E:/SSM/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://E:/SSM/lib/ognl-3.1.16.jar!/" />
+      <root url="jar://E:/SSM/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://E:/SSM/lib/slf4j-log4j12-1.7.25.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-aop-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-aspects-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-beans-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-context-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-core-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-expression-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-jdbc-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-tx-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-web-5.1.5.RELEASE.jar!/" />
+      <root url="jar://E:/SSM/lib/spring-webmvc-5.1.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
